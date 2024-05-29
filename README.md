@@ -203,6 +203,3 @@ If you find this project useful in your research, please consider citing our pap
 - [ttach](https://github.com/qubvel/ttach)
 - [catalyst](https://github.com/catalyst-team/catalyst)
 - [mmsegmentation](https://github.com/open-mmlab/mmsegmentation) # test3433
-# LDFormer
-# LDFormer
-# LDFormer
