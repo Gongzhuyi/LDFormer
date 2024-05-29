@@ -2,7 +2,9 @@
 
 ## Introduction
 
-This project (BuildFormer) is an extension of our [GeoSeg](https://github.com/WangLibo1995/GeoSeg), which mainly focuses on building extraction from remote sensing images.
+LDFormer is referenced by [BuildFormer](https://github.com/WangLibo1995/BuildFormer), which you can visit for details.
+
+GeoSeg is an open-source semantic segmentation toolbox based on PyTorch, pytorch lightning and timm, which mainly focuses on developing advanced Vision Transformers for remote sensing image segmentation.
 
   
 ## Folder Structure
