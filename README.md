@@ -63,7 +63,7 @@ conda create -n airs python=3.8
 conda activate airs
 
 conda install pytorch==1.10.0 torchvision==0.11.0 torchaudio==0.10.0 cudatoolkit=11.3 -c pytorch -c conda-forge
-pip install -r BuildFormer/requirements.txt
+pip install -r LDFormer/requirements.txt
 ```
 
 ## Data Preprocessing
@@ -200,4 +200,4 @@ If you find this project useful in your research, please consider citing our pap
 - [pytorch-toolbelt](https://github.com/BloodAxe/pytorch-toolbelt)
 - [ttach](https://github.com/qubvel/ttach)
 - [catalyst](https://github.com/catalyst-team/catalyst)
-- [mmsegmentation](https://github.com/open-mmlab/mmsegmentation) # test3433
+- [mmsegmentation](https://github.com/open-mmlab/mmsegmentation)
